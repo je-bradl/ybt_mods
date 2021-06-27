@@ -2,7 +2,7 @@
 Minecraft 1.17, last updated 27/06.21
 
 ### 1. Download all files from this repository
-Doesn't matter where they go for the moment, but open up the folder when you've downloaded them
+Click the green 'Code' button and then select 'Download ZIP'. Doesn't matter where they go for the moment, but unzip and open up the folder when you've downloaded them.
 
 ### 2. Install Fabric
 Double click to run the file 'fabric-installer-0.7.4.jar'
