@@ -7,7 +7,9 @@ Doesn't matter where they go for the moment, but open up the folder when you've 
 ### 2. Install Fabric
 Double click to run the file 'fabric-installer-0.7.4.jar'
 You'll get a window like this:
+
 ![image](https://user-images.githubusercontent.com/64788100/123556763-ec986f80-d784-11eb-81a4-886beb37ef72.png)
+
 Make sure the version is 1.17 and the install location is a '.minecraft' folder
 Click to install
 
