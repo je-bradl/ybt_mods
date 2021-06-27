@@ -15,7 +15,9 @@ Click to install
 
 ### 3. Move the other mods into the right folder
 Move all of the other mods into the 'mods' folder in your '.minecraft' folder. This can be found by:
+
   Windows - open the 'Run' app from the search bar, and type 'appdata' into the Open input. Click OK, and this should bring you to a folder called 'AppData'. From here, the file path is Roaming > .minecraft > mods
+  
   Mac - idk yet ill update this when jasper needs it
   
 Move all of the downloaded mod files into that folder. The current list is:
