@@ -20,6 +20,8 @@ Move all of the other mods into the 'mods' folder in your '.minecraft' folder. T
   
   Mac - idk yet ill update this when jasper needs it
   
+If you don't have a mods folder, make one in the .minecraft folder.
+  
 Move all of the downloaded mod files into that folder. The current list is:
 - Fabric API
 - Voxel Map
@@ -32,3 +34,4 @@ When you start up the Minecraft Loader, select the option to use the Fabric 1.17
 ![image](https://user-images.githubusercontent.com/64788100/123556918-cd4e1200-d785-11eb-8e0d-1f4ad619fea0.png)
 
 Find the ybf 2.0 server, and launch!
+If you've done everything correctly, you'll see that you're running a Fabric (Modded) version of Minecraft!
